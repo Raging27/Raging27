@@ -7,8 +7,6 @@
 
 ---
 
-I'm deeply passionate about building scalable web applications and enriching user experiences. Currently, I'm delving into the Rails ecosystem, crafting beautiful and functional web applications.
-
 - 🔭 **What I'm working on:** I’m knee-deep in a few Rails projects, pushing boundaries and implementing robust features.
 
 - 🌱 **I’m currently learning:** My learning journey currently encompasses Vue.js for its reactive components and diving deep into UX/UI to enhance user interactions and design.
