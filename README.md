@@ -1,36 +1,35 @@
-<h1 align="center">Hi there, I'm Omar 👋</h1>
-<h3 align="center">A passionate lifelong learner and full-stack Rails developer</h3>
+# Hi, I'm Omar 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-haizoun/"><img src="https://img.shields.io/badge/LinkedIn-Omar%20Haizoun-blue?style=flat-square&logo=linkedin"></a>
-</p>
+I'm a full-stack Ruby on Rails developer building practical software for real businesses.
 
----
+My main focus is creating clean, useful web apps with Rails, PostgreSQL, Hotwire/Stimulus, React, and modern UX. I care about products that solve actual problems, not just code that looks good in a tutorial.
 
-- 🔭 **What I'm working on:** I’m knee-deep in a few Rails projects, pushing boundaries and implementing robust features.
+Currently, I'm working on SaaS-style tools for small businesses, booking systems, CRM workflows, dashboards, and AI-assisted products.
 
-- 🌱 **I’m currently learning:** My learning journey currently encompasses Vue.js for its reactive components and diving deep into UX/UI to enhance user interactions and design.
+## What I build
 
-- 💬 **Ask me about:** If you're curious about anything from Rails intricacies to how to integrate design and functionality seamlessly, just hit me up!
+- Full-stack Rails applications
+- SaaS dashboards and internal tools
+- Booking and CRM systems
+- Marketplace-style platforms
+- AI-assisted workflows
+- Clean landing pages and product interfaces
 
-### 🛠️ Languages and Tools:
+## Tech I use
 
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript ES6">
-  <img src="https://img.shields.io/badge/Stimulus-77A4BD?style=for-the-badge&logo=stimulus&logoColor=white" alt="Stimulus">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
-</div>
+**Backend:** Ruby on Rails, PostgreSQL, Sidekiq  
+**Frontend:** React, Hotwire, Stimulus, JavaScript, HTML, CSS, Bootstrap  
+**Tools:** Git, GitHub, Heroku, APIs, Figma, AI coding workflows
 
-### 📫 How to reach me:
+## What I'm focused on
 
-The best way to reach out to me is through [LinkedIn](https://www.linkedin.com/in/omar-haizoun/). Whether it's for collaboration, questions, or just to say hi, I look forward to hearing from you!
+I'm not just learning frameworks. I'm building products, improving UX, shipping features, and turning ideas into working software.
+
+Most of my work is focused on simple, useful tools for people who don't care about tech — they just want something that works.
+
+## Contact
+
+Open to collaborations, freelance work, and serious product ideas.
+
+[LinkedIn](https://www.linkedin.com/in/omar-haizoun/)
 
