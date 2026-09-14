@@ -1,4 +1,41 @@
-# IT Support Labs
+# IT Support Lab Portfolio
+
+**Windows · networking · Linux · Docker · recovery · SQL · incident communication**
+
+A practical learning portfolio for junior IT support and application-support roles, connecting workstation troubleshooting with web-application operations.
+
+**7 guided exercises are ready to run. Execution evidence is pending.** Scenarios are simulated and prepared with AI assistance. Completed results will be recorded only after actual execution.
+
+## Start here
+
+[Environment and completion guide](START-HERE.md) · [Ticket template](templates/ticket.md) · [Interview checklist](INTERVIEW-CHECKLIST.md)
+
+## Lab catalogue
+
+| Lab | Skill | Deliverable | Status |
+| --- | --- | --- | --- |
+| [01 — Windows baseline](labs/01-windows-diagnostics.md) | Processes, memory, disks, event evidence | Workstation diagnostic report | Ready to run |
+| [02 — DNS and networking](labs/02-dns-network.md) | DNS vs TCP vs HTTP | Layer-by-layer investigation | Ready to run |
+| [03 — Docker outage](labs/03-docker-outage.md) | Logs, service state, recovery | Before/failure/after evidence | Ready to run |
+| [04 — Linux permissions](labs/04-linux-permissions.md) | Ownership and least privilege | Access test and rollback | Ready to run |
+| [05 — Backup recovery](labs/05-backup-restore.md) | Restore validation and checksums | Verified file recovery | Ready to run |
+| [06 — SQL investigation](labs/06-sql-investigation.md) | Read-only queries and escalation | Duplicate-booking investigation | Ready to run |
+| [07 — Identity and triage](labs/07-identity-and-triage.md) | MFA, access requests, priorities | French/English ticket communications | Ready to run |
+
+## What this portfolio shows
+
+The guides define repeatable troubleshooting methods, bounded changes, verification and escalation. They do not yet demonstrate completed practical work, production experience or Microsoft tenant administration.
+
+No live credentials or production data are required. Docker exercises run locally and do not deploy anything to Railway.
+
+## Recommended first session
+
+Complete lab 03 if Docker is already available, or lab 01 on Windows. Publish one sanitised ticket with actual results before moving to the next exercise.
+
+## Additional reference runbooks
+
+The original four scenario outlines are retained below for reference.
+
 
 Practical preparation for junior IT support and application-support interviews.
 
