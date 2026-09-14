@@ -1,51 +1,41 @@
 # Omar Haizoun
 
-**Full-stack Ruby on Rails developer | IT support and troubleshooting**
+**Ruby on Rails developer | Open to developer, application-support and junior IT-support roles**
 
-I build practical web applications and bring the same structured approach to technical support: understand the problem, reproduce it, isolate the cause, document the fix, and communicate clearly.
+Based in **Annemasse, near Geneva** · **French, English and Italian**
 
-Based near **Geneva / Annemasse** and open to junior developer, application-support, help-desk, and IT-support opportunities in Switzerland and France.
+I build web products with Ruby on Rails and PostgreSQL. My background in customer-facing operations and team leadership also brings clear communication, ownership and an understanding of non-technical users.
 
-## What I bring
+## Flagship projects
 
-- Full-stack development with Ruby on Rails, PostgreSQL, Hotwire/Stimulus, JavaScript, and Bootstrap
-- Authentication, role-based workflows, relational data modelling, booking systems, dashboards, and third-party services
-- Practical troubleshooting across applications, operating systems, accounts, networking fundamentals, and user-facing issues
-- Clear communication in **English, French, and Italian**
-- Experience turning business needs into simple tools that non-technical users can operate
+### Peragenda — visual productivity app
 
-## Selected projects
+A freeform digital board built as a Rails progressive web app, with guest mode, accounts and persistent notes.
 
-### [EcoRide](https://github.com/Raging27/EcoRide)
-A deployed carpooling platform built with Rails 8, PostgreSQL, MongoDB/Mongoid, Devise, Docker, and Railway. Includes driver/passenger workflows, trip booking, vehicle management, credits, reviews, moderation, and role-based administration.
+**Stack:** Rails 8 · PostgreSQL · Hotwire / Stimulus · Tailwind CSS  
+**Focus:** interactive product development, authentication, containerised deployment and application operations.
 
-**What it demonstrates:** end-to-end product development, multi-database architecture, authentication and authorization, containerised setup, deployment, and technical documentation.
+Source code is private. Contact me for a project walkthrough.
 
-### [Schoolink](https://github.com/Raging27/schoolink)
-A team-built school communication platform for teachers and parents. It provides role-specific dashboards, grade management, exam-document sharing, and direct messaging.
+### VisaCompass — immigration comparison application
 
-**What it demonstrates:** collaborative Git workflow, Rails domain modelling, role-based access, file handling, and communication features.
+A Rails application for exploring visa options and immigration pathways.
 
-### [AirbnBoat](https://github.com/Raging27/rental-boat)
-A team-built boat-rental marketplace where owners publish boats and users search, book, manage reservations, and leave reviews.
+**Focus:** turning complex information into an understandable, user-facing product.
 
-**What it demonstrates:** marketplace and booking workflows, geolocation data, authentication, media handling, audit history, and relational modelling.
+Source code is private. Contact me for a project walkthrough.
 
-## Technical toolkit
+## Development and support
 
-| Area | Technologies |
-| --- | --- |
-| Backend | Ruby, Ruby on Rails, PostgreSQL, REST APIs |
-| Frontend | Hotwire, Turbo, Stimulus, React, JavaScript, HTML, CSS, Bootstrap |
-| Delivery | Git, GitHub, Docker, Railway, Heroku |
-| Services | Devise, Cloudinary, MongoDB/Mongoid, third-party APIs |
-| IT support | Structured troubleshooting, Windows/Linux fundamentals, networking fundamentals, account and application support |
+- **Development:** Ruby, Rails, PostgreSQL, JavaScript, Hotwire, React, HTML and CSS.
+- **Delivery:** Git, GitHub, Docker, Railway and Heroku.
+- **Support preparation:** building Windows, networking and application-troubleshooting fundamentals.
+- **Communication:** customer-facing experience and multilingual communication.
 
-## Current focus
-
-I am strengthening my L1/junior L2 support skills through hands-on labs while continuing to build and improve Rails applications. I am particularly interested in roles where development knowledge helps diagnose application, data, deployment, or user-support problems.
+[IT support practice scenarios and runbooks](it-support-labs/README.md) — simulated exercises; completed work is documented separately when verified.
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/omar-haizoun/)
-- [GitHub](https://github.com/Raging27)
+Open to opportunities in **Geneva, Annemasse and the surrounding region**.
+
+[Contact me on LinkedIn](https://www.linkedin.com/in/omar-haizoun/)
