@@ -35,6 +35,6 @@ Source code is private. Contact me for a project walkthrough.
 
 ## Contact
 
-Open to opportunities in **Geneva, Annemasse and the surrounding region**.
+Open to opportunities in **Geneva, Lausanne and the surrounding region**.
 
 [Contact me on LinkedIn](https://www.linkedin.com/in/omar-haizoun/)
