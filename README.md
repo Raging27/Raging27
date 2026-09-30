@@ -2,7 +2,6 @@
 
 **Ruby on Rails developer | Open to developer, application-support and junior IT-support roles**
 
-Based in **Annemasse, near Geneva** · **French, English and Italian**
 
 I build web products with Ruby on Rails and PostgreSQL. My background in customer-facing operations and team leadership also brings clear communication, ownership and an understanding of non-technical users.
 
